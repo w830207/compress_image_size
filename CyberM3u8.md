@@ -1,6 +1,6 @@
-##Privacy Policy for Cyber M3u8
+## Privacy Policy for Cyber M3u8
 
-#PRIVACY POLICY 
+# PRIVACY POLICY 
 
 ## What information does the Application obtain and how is it used?
 The Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
