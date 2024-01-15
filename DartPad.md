@@ -1,4 +1,4 @@
-## Privacy Policy for Cyber M3u8
+## Privacy Policy for dart pad
 
 # PRIVACY POLICY 
 
